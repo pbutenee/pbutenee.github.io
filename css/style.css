@@ -2804,7 +2804,7 @@ table > thead > tr > th, table > thead > tr > td, table > tbody > tr > th, table
 
 /* line 598, ../scss/style.scss */
 .banner .page-header {
-  opacity: 0.8;
+  opacity: 1;
 }
 
 /* line 602, ../scss/style.scss */
